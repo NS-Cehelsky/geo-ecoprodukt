@@ -1,0 +1,10 @@
+# API kľúče a citlivé údaje
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Výstupné súbory (netreba na GitHub)
+geo_odpovede_*.txt
+geo_odpovede_*.json
