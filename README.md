@@ -1,4 +1,4 @@
-# 🌱 GEO Skript — ECO PRODUKT
+# GEO Skript — ECO PRODUKT
 
 **GEO (Generative Engine Optimization)** skript ktorý generuje AI-optimalizované odpovede pre ECO PRODUKT (ecoprodukt.sk).
 
