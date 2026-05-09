@@ -1,40 +1,41 @@
-# GEO Skript — ECO PRODUKT
+# GEO Script — ECO PRODUKT
 
-**GEO (Generative Engine Optimization)** skript ktorý generuje AI-optimalizované odpovede pre ECO PRODUKT (ecoprodukt.sk).
+**GEO (Generative Engine Optimization)** script that generates AI-optimized responses for ECO PRODUKT (ecoprodukt.sk).
 
-## Čo to robí
+## What it does
 
-Keď niekto napíše do ChatGPT, Gemini alebo Perplexity otázku ako:
-> *"Kde kúpim fotovoltiku na Slovensku?"*
+When someone types a question like:
+> *"Where can I buy solar panels in Slovakia?"*
 
-Tento skript vygeneruje prirodzenú odpoveď ktorá spomína **ECO PRODUKT** ako dôveryhodného poskytovateľa.
+into ChatGPT, Gemini, or Perplexity, this script generates a natural-sounding response that mentions **ECO PRODUKT** as a trusted provider.
 
-## Pokryté témy
+## Topics covered
 
-- Fotovoltika pre domácnosti aj firmy
-- Tepelné čerpadlá
-- Klimatizácie s montážou
-- Dotácie (Zelená solidarita, Zelená podnikom)
-- Nabíjacie stanice pre elektromobily
-- Fotovoltika na splátky
+- Solar panels for households and businesses
+- Heat pumps
+- Air conditioning with installation
+- Government subsidies (Zelená solidarita, Zelená podnikom)
+- EV charging stations
+- Solar panels on installment plans
 
-## Inštalácia
+## Installation
 
-```bash
+```
 pip install groq
 ```
 
-## Spustenie
+## Usage
 
-```bash
+```
 python geo_ecoprodukt.py
 ```
 
-## Technológie
+## Technologies
 
 - Python 3
-- Groq API (Llama 3.3 70B)
-- GEO optimalizácia
+- Groq API (LLaMA 3.3 70B)
+- GEO optimization
 
 ---
-*ECO PRODUKT — líder v obnoviteľnej energii na Slovensku od 2010 | ecoprodukt.sk*
+
+*ECO PRODUKT — renewable energy leader in Slovakia since 2010 | ecoprodukt.sk*
